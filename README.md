@@ -47,7 +47,7 @@ Integración RK4
 
 🧪 Resultados principales
 
-La última versión (V10–V11 experimental) mostró:
+La versión V10 documentada mostró los siguientes resultados numéricos. El README menciona V11 como experimental, pero no la identifica como una versión reproducible en la estructura de archivos descrita:
 
 vorticidades máximas superiores a 350
 
