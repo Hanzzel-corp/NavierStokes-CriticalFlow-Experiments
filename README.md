@@ -3,7 +3,7 @@
 Copiá y pegá esto como README.md dentro de tu carpeta:
 
 🌀 Exploración de Regímenes Críticos en Navier–Stokes 3D
-Simulaciones V2 → V10 desde una notebook, buscando señales de singularidad
+Simulaciones V2 → V10 desde una notebook, explorando regímenes de alta vorticidad
 
 Este repositorio documenta un recorrido experimental construyendo, desde cero, una serie de motores numéricos destinados a estudiar el crecimiento de la vorticidad en la ecuación de Navier–Stokes 3D, utilizando únicamente una notebook y Python.
 
@@ -55,7 +55,7 @@ crecimiento sostenido durante miles de iteraciones
 
 oscilaciones críticas tipo plateau dinámico
 
-comportamiento precursor de singularidad según interpretación Hou–Luo / BKM
+comportamiento de intensificación del flujo que motiva análisis adicional bajo los criterios Hou–Luo / BKM; no constituye evidencia de blow-up
 
 sin blow-up real, pero con intensificación extrema del flujo
 
@@ -81,3 +81,11 @@ pip install numpy matplotlib
 Ejemplo:
 
 python NavierPhase_HouLuo_torus3D_v10.py
+
+---
+
+## Dirección de investigación y autoría
+
+**José Zamora — Investigador principal independiente (Independent Principal Investigator), Hanzzel Corp.**
+
+Este repositorio es un proyecto individual del ecosistema Hanzzel Corp. Su pertenencia al ecosistema no implica integración técnica con NCT ni validación de resultados más allá de la evidencia documentada aquí.
