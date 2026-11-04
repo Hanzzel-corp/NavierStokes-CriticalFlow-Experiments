@@ -1,7 +1,3 @@
-📘 README.md — versión final para subir
-
-Copiá y pegá esto como README.md dentro de tu carpeta:
-
 🌀 Exploración de Regímenes Críticos en Navier–Stokes 3D
 Simulaciones V2 → V10 desde una notebook, explorando regímenes de alta vorticidad
 
@@ -47,7 +43,7 @@ Integración RK4
 
 🧪 Resultados principales
 
-La versión V10 documentada mostró los siguientes resultados numéricos. El README menciona V11 como experimental, pero no la identifica como una versión reproducible en la estructura de archivos descrita:
+La versión V10 documentada mostró los siguientes resultados numéricos. El README también menciona V11 como experimental, pero no la identifica como una versión reproducible en la estructura de archivos descrita:
 
 vorticidades máximas superiores a 350
 
